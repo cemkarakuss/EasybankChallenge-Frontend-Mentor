@@ -25,13 +25,13 @@ Kullanıcılar şunları yapabilmelidir:
 
 ### Ekran Görüntüsü
 
-![./screenshot1.png]
-![./screenshot2.png]
-![./screenshot3.png]
-![./screenshot4.png]
-![./screenshot5.png]
-![./screenshot6.png]
-![./screenshot7.png]
+![Ekran Görüntüsü](/screenshots/screenshot1.png)
+![Ekran Görüntüsü](/screenshots/screenshot2.png)
+![Ekran Görüntüsü](/screenshots/screenshot3.png)
+![Ekran Görüntüsü](/screenshots/screenshot4.png)
+![Ekran Görüntüsü](/screenshots/screenshot5.png)
+![Ekran Görüntüsü](/screenshots/screenshot6.png)
+![Ekran Görüntüsü](/screenshots/screenshot7.png)
 
 
 ### Bağlantılar

@@ -25,13 +25,13 @@ Users should be able to:
 
 ### Screenshots
 
-![./screenshot1.png](./screenshot1.png)
-![./screenshot2.png](./screenshot2.png)
-![./screenshot3.png](./screenshot3.png)
-![./screenshot4.png](./screenshot4.png)
-![./screenshot5.png](./screenshot5.png)
-![./screenshot6.png](./screenshot6.png)
-![./screenshot7.png](./screenshot7.png)
+![ScreenShot](./screenshot1.png)
+![ScreenShot](./screenshot2.png)
+![ScreenShot](./screenshot3.png)
+![ScreenShot](./screenshot4.png)
+![ScreenShot](./screenshot5.png)
+![ScreenShot](./screenshot6.png)
+![ScreenShot](./screenshot7.png)
 
 ### Links
 
